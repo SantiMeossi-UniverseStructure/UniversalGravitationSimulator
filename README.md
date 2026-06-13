@@ -1,2 +1,1 @@
-# UniversalGravitationSimulator
-It's a tiny simulator of two bodies. You can modify the masses, one perpendicular speed, and a few other things.
+I hope you like it! If I see that you want an update, I'll update it!
